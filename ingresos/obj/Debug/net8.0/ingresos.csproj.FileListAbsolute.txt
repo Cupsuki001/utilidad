@@ -1,0 +1,14 @@
+C:\Users\DELL 5590\source\repos\ingresos\ingresos\bin\Debug\net8.0\ingresos.exe
+C:\Users\DELL 5590\source\repos\ingresos\ingresos\bin\Debug\net8.0\ingresos.deps.json
+C:\Users\DELL 5590\source\repos\ingresos\ingresos\bin\Debug\net8.0\ingresos.runtimeconfig.json
+C:\Users\DELL 5590\source\repos\ingresos\ingresos\bin\Debug\net8.0\ingresos.dll
+C:\Users\DELL 5590\source\repos\ingresos\ingresos\bin\Debug\net8.0\ingresos.pdb
+C:\Users\DELL 5590\source\repos\ingresos\ingresos\obj\Debug\net8.0\ingresos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5590\source\repos\ingresos\ingresos\obj\Debug\net8.0\ingresos.AssemblyInfoInputs.cache
+C:\Users\DELL 5590\source\repos\ingresos\ingresos\obj\Debug\net8.0\ingresos.AssemblyInfo.cs
+C:\Users\DELL 5590\source\repos\ingresos\ingresos\obj\Debug\net8.0\ingresos.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5590\source\repos\ingresos\ingresos\obj\Debug\net8.0\ingresos.dll
+C:\Users\DELL 5590\source\repos\ingresos\ingresos\obj\Debug\net8.0\refint\ingresos.dll
+C:\Users\DELL 5590\source\repos\ingresos\ingresos\obj\Debug\net8.0\ingresos.pdb
+C:\Users\DELL 5590\source\repos\ingresos\ingresos\obj\Debug\net8.0\ingresos.genruntimeconfig.cache
+C:\Users\DELL 5590\source\repos\ingresos\ingresos\obj\Debug\net8.0\ref\ingresos.dll
